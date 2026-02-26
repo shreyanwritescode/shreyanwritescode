@@ -11,4 +11,4 @@ Learning, improving, and building consistently
 <a href="mailto:smffpu2007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 #### Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,git,github,bash,linux,vscode&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,git,github,bash,linux,vscode&perline=4" />
