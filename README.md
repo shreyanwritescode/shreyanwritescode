@@ -1,5 +1,5 @@
 #### hi:)
-I'm [Shreyan](https://shreyanwritescode.github.io/shreyxn/),
+I'm [Shreyan](https://shreyanwritescode.github.io/shreyxn/), <br>
 an 18-year-old Computer Science undergraduate  
 Focused on technology, AI, and machine learning  
 Learning, improving, and building consistently  
