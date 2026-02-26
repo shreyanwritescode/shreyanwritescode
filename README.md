@@ -1,8 +1,8 @@
 #### hi:)
 I'm [Shreyan](https://shreyanwritescode.github.io/shreyxn/), <br>
-an 18-year-old Computer Science undergraduate (@ SRMIST '29) 
-Focused on Tech, AI, and Machine Learning  
-Learning, improving, and building consistently  
+an 18-year-old Computer Science undergraduate (@ SRMIST '29) <br>
+Focused on Tech, AI, and Machine Learning <br>
+Learning, improving, and building consistently <br>
 
 ####  Socials
 <a href="https://x.com/shreyxn_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
