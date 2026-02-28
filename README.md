@@ -15,6 +15,6 @@ Learning, improving, and building consistently <br>
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyanwritescode&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=shreyanwritescode&theme=dark&hide_border=true" />
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyanwritescode&show_icons=true&theme=dark&hide_border=true" /> |
+| --- |
+| <img src="https://streak-stats.demolab.com?user=shreyanwritescode&theme=dark&hide_border=true" /> |
