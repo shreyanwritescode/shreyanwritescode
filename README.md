@@ -12,3 +12,6 @@ Learning, improving, and building consistently <br>
 
 #### Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,git,github,bash,vscode,sublime,apple,autocad&perline=7" />
+
+| --- |
+| <img src="https://streak-stats.demolab.com?user=shreyanwritescode&theme=dark&hide_border=true" /> |
