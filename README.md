@@ -1,5 +1,4 @@
-#### hi:)
-I'm [Shreyan](https://shreyanwritescode.github.io/shreyxn/), <br>
+Hello, I'm [Shreyan](https://shreyanwritescode.github.io/shreyxn/), <br>
 an 18y/o Computer Science undergraduate (@ SRMIST '29) <br>
 Focused on Tech, AI, and Machine Learning <br>
 Learning, improving, and building consistently <br>
@@ -11,4 +10,7 @@ Learning, improving, and building consistently <br>
 <a href="mailto:smffpu2007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 #### Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,git,github,bash,vscode,linux,apple,autocad&perline=7" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,git,github,bash,vscode,linux&perline=6)](https://skillicons.dev)
+
+#### Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=shreyanwritescode&border_radius=8)
